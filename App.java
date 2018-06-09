@@ -2,7 +2,6 @@ public class App {
     public static void main(String[] args) {
         // Tree<Integer> tree = new AvlTree<>();
 
-
         // tree.insert(1);
         // tree.insert(2);
         // tree.insert(3);
@@ -103,7 +102,6 @@ public class App {
         // tree.insert("b");
 
         // tree.traverse();
-
 
         tree.insert("a");
         tree.insert("c");
